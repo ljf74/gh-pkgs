@@ -1,0 +1,19 @@
+{
+  "name": "gh-pkgs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljf74/gh-pkgs.git"
+  },
+  "author": "Andy Woz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ljf74/gh-pkgs/issues"
+  },
+  "homepage": "https://github.com/ljf74/gh-pkgs#readme"
+}
