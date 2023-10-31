@@ -1,5 +1,5 @@
 {
-  "name": "gh-pkgs",
+  "name": "@ljf74/gh-pkgs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ljf74/gh-pkgs.git"
+    "url": "https://github.com/ljf74/gh-pkgs.git"
   },
   "author": "Andy Woz",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ljf74/gh-pkgs/issues"
   },
