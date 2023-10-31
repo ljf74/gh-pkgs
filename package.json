@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ljf74/gh-pkgs/issues"
   },
-  "homepage": "https://github.com/ljf74/gh-pkgs#readme"
+  "homepage": "https://github.com/ljf74/gh-pkgs#readme",
+  "publishConfig": {
+  "@ljf74:registry": "https://npm.pkg.github.com"
+}
 }
